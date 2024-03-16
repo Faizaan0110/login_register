@@ -1,0 +1,25 @@
+body {
+    padding: 125px;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/891/637/148/twigs-plants-leaves-vignette-wallpaper-preview.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 400px; /* Adjust the width as needed */
+    margin: 50px 0 50px auto; /* Adjust the margin as needed to align the container to the right */
+    padding: 50px;
+    box-shadow: rgba(0, 255, 60, 0.2) 0px 30px 30px 0px;
+    background-color: rgb(254, 254, 254);
+}
+.logo {
+    position: absolute; /* Position the logo */
+    top: 60px; /* Adjust top position as needed */
+    left: 440px; /* Adjust left position as needed */
+    width: 500px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+.form-group {
+    margin-bottom: 30px;
+}
